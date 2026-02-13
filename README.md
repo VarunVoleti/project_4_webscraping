@@ -13,6 +13,10 @@ Appends data continuously to a CSV file
 Runs automatically in an infinite loop
 This project demonstrates how to build a mini real-time data pipeline using Python.
 
+
+https://github.com/user-attachments/assets/b8eea9ce-3b5f-4e63-9050-10346104a82a
+
+
 ### 🛠 Technologies Used
 
 Python
